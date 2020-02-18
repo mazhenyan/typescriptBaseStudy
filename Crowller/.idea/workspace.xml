@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f7f826a-e277-46e3-9635-b23406ff8009" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../My_ac/.idea/My_ac.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/components/bookCategory/bookCategory.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/components/findBookInfo/findBookInfo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/components/forgetPassword.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/components/images/book01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/components/images/book02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/components/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/components/login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/components/main/mainInfo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/components/manageInfo/manage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/components/notFound.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/components/register.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/components/user/userInfo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/router/getters/getters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/router/mutations/mutations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/router/state/state.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/router/store/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookManageSystem/.idea/bookManageSystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookManageSystem/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookManageSystem/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookManageSystem/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookManageSystem/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookManageSystem/.idea/runConfigurations/bin_www.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookManageSystem/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookManageSystem/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookManageSystem/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawlerBilibiliInfo/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawlerBilibiliInfo/.idea/runConfigurations/bin_www.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawlerBilibiliInfo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawlerBilibiliInfo/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cssStudy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cssStudy/CSS禅意花园.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cssStudy/CSS网站布局实录.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cssStudy/HTTP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cssStudy/IIFE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cssStudy/JavaScript/7-21.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cssStudy/demo1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cssStudy/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cssStudy/undefined与null区别.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cssStudy/加性操作符.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cssStudy/数组去重.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cssStudy/数组的方法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../second/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../second/public/Crush.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../second/public/bandicam 2019-02-13 15-45-26-005.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../second/public/test.vtt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../second/views/demo2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/tslint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/data/postData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/avatar/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/avatar/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/avatar/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/avatar/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/avatar/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/icon/arrow-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/icon/chat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/icon/chat1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/icon/collection-anti.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/icon/collection.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/icon/none-star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/icon/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/icon/share-anti.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/icon/share.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/icon/star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/icon/view.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/icon/xx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/iqiyi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/music/music-start.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/music/music-stop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/music/xuwei.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/post/bl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/post/cat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/post/crab.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/post/sls.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/post/vr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/post/xiaolong.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/tab/ciwei.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/tab/ciwei_hl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/tab/dianying.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/tab/dianying_hl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/tab/yuedu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/tab/yuedu_hl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/vr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/images/wx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/pages/posts/postsItem/postItem.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weChatStudy/pages/posts/postsItem/postItem.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JS算法.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_ac/acgFun/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../My_ac/acgFun/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_ac/acgFun/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../My_ac/acgFun/build/webpack.base.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_ac/acgFun/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../My_ac/acgFun/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_ac/acgFun/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../My_ac/acgFun/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_ac/acgFun/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../My_ac/acgFun/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_ac/acgFun/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../My_ac/acgFun/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_ac/acgFun/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_ac/acgFun/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_ac/acgFun/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_ac/acgFun/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../My_ac/acgFun/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_ac/acgFun/test/e2e/custom-assertions/elementCount.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_ac/acgFun/test/e2e/nightwatch.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_ac/acgFun/test/e2e/runner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_ac/acgFun/test/e2e/specs/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_ac/acgFun/test/unit/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_ac/acgFun/test/unit/jest.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_ac/acgFun/test/unit/setup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_ac/acgFun/test/unit/specs/HelloWorld.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canvas.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../paging.rar" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="44" column="8" selection-start-line="44" selection-start-column="2" selection-end-line="44" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tslint.json" />
+        <option value="$PROJECT_DIR$/tsconfig.json" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/demo.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1320" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="typescript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="typescript" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="typescript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="typescript" type="462c0819:PsiDirectoryNode" />
+              <item name="demo.ts" type="620a8d5e:NestingTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../coocaa/wechat" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="I:\node.js\node_global\node_modules\tslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.tslint" />
+    <property name="ts.external.directory.path" value="I:\WebStorm 2018.3.5\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\myFuture\Byme\typescript" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f7f826a-e277-46e3-9635-b23406ff8009" name="Default Changelist" comment="" />
+      <created>1565253468138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565253468138</updated>
+      <workItem from="1565253469694" duration="2318000" />
+      <workItem from="1565255846408" duration="8316000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10634000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1319" height="784" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980484" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.16615385" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/demo.js" />
+        <option value="$PROJECT_DIR$/demo.js.map" />
+      </list>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tslint.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2646">
+          <caret line="89" column="1" selection-start-line="89" selection-start-column="1" selection-end-line="89" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.js.map">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="44" column="8" selection-start-line="44" selection-start-column="2" selection-end-line="44" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
